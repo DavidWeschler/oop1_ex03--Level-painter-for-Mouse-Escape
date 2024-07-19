@@ -1,7 +1,6 @@
 Exercise 3 - Level maker for mouse game
 
-Written by: Ron Avital. id: 318751419
-          	David Weschler. id: 209736578	
+Written by: Ron Avital & David Weschler
 			
 In this OOP excercise we built a Level maker for the mouse game. 
 after running the program, the user needs to enter the amount of rows an cols
